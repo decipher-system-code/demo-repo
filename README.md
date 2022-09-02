@@ -7,3 +7,7 @@ Some description!
 Watch tutorial on YouTube.
 
 Too much YouTube :(.
+
+## Local Development
+
+1. Open index.html in your browser
